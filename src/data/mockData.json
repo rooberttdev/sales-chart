@@ -1,0 +1,356 @@
+{
+  "categorias": [
+    {
+      "nome": "Eletrônicos",
+      "produtos": [
+        {
+          "nome": "Smartphone",
+          "marcas": [
+            {
+              "nome": "Apple",
+              "vendas": [
+                156,
+                257,
+                56,
+                457
+              ]
+            },
+            {
+              "nome": "Samsung",
+              "vendas": [
+                39,
+                467,
+                357,
+                245
+              ]
+            },
+            {
+              "nome": "Xiaomi",
+              "vendas": [
+                68,
+                158,
+                259,
+                39
+              ]
+            },
+            {
+              "nome": "Huawei",
+              "vendas": [
+                78,
+                179,
+                290,
+                127
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Notebook",
+          "marcas": [
+            {
+              "nome": "Dell",
+              "vendas": [
+                157,
+                99,
+                360,
+                212
+              ]
+            },
+            {
+              "nome": "HP",
+              "vendas": [
+                698,
+                379,
+                582,
+                179
+              ]
+            },
+            {
+              "nome": "Lenovo",
+              "vendas": [
+                168,
+                478,
+                589,
+                122
+              ]
+            },
+            {
+              "nome": "Asus",
+              "vendas": [
+                451,
+                353,
+                255,
+                157
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tablet",
+          "marcas": [
+            {
+              "nome": "Samsung",
+              "vendas": [
+                57,
+                135,
+                235,
+                489
+              ]
+            },
+            {
+              "nome": "Apple",
+              "vendas": [
+                89,
+                119,
+                866,
+                319
+              ]
+            },
+            {
+              "nome": "Huawei",
+              "vendas": [
+                189,
+                278,
+                399,
+                589
+              ]
+            },
+            {
+              "nome": "Microsoft",
+              "vendas": [
+                379,
+                290,
+                188,
+                89
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Roupas",
+      "produtos": [
+        {
+          "nome": "Camiseta",
+          "marcas": [
+            {
+              "nome": "Nike",
+              "vendas": [
+                221,
+                321,
+                420,
+                520
+              ]
+            },
+            {
+              "nome": "Adidas",
+              "vendas": [
+                510,
+                411,
+                311,
+                210
+              ]
+            },
+            {
+              "nome": "Puma",
+              "vendas": [
+                491,
+                390,
+                291,
+                190
+              ]
+            },
+            {
+              "nome": "Under Armour",
+              "vendas": [
+                187,
+                287,
+                385,
+                483
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Calça Jeans",
+          "marcas": [
+            {
+              "nome": "Levi's",
+              "vendas": [
+                540,
+                441,
+                340,
+                241
+              ]
+            },
+            {
+              "nome": "Diesel",
+              "vendas": [
+                531,
+                430,
+                331,
+                230
+              ]
+            },
+            {
+              "nome": "Calvin Klein",
+              "vendas": [
+                511,
+                410,
+                310,
+                211
+              ]
+            },
+            {
+              "nome": "Wrangler",
+              "vendas": [
+                500,
+                401,
+                301,
+                201
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Alimentos",
+      "produtos": [
+        {
+          "nome": "Cereais",
+          "marcas": [
+            {
+              "nome": "Kellogg's",
+              "vendas": [
+                120,
+                150,
+                180,
+                200
+              ]
+            },
+            {
+              "nome": "Nestlé",
+              "vendas": [
+                110,
+                140,
+                170,
+                190
+              ]
+            },
+            {
+              "nome": "Quaker",
+              "vendas": [
+                100,
+                130,
+                160,
+                180
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bolachas",
+          "marcas": [
+            {
+              "nome": "Nabisco",
+              "vendas": [
+                130,
+                60,
+                190,
+                120
+              ]
+            },
+            {
+              "nome": "Mondelēz",
+              "vendas": [
+                140,
+                170,
+                89,
+                230
+              ]
+            },
+            {
+              "nome": "Danone",
+              "vendas": [
+                50,
+                180,
+                360,
+                200
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Cosméticos",
+      "produtos": [
+        {
+          "nome": "Shampoo",
+          "marcas": [
+            {
+              "nome": "Pantene",
+              "vendas": [
+                80,
+                100,
+                790,
+                480
+              ]
+            },
+            {
+              "nome": "Head & Shoulders",
+              "vendas": [
+                690,
+                268,
+                469,
+                378             ]
+            },
+            {
+              "nome": "Dove",
+              "vendas": [
+                90,
+                369,
+                189,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Protetor Solar",
+          "marcas": [
+            {
+              "nome": "Neutrogena",
+              "vendas": [
+                120,
+                586,
+                459,
+                280
+              ]
+            },
+            {
+              "nome": "Nivea",
+              "vendas": [
+                759,
+                586,
+                227,
+                189
+              ]
+            },
+            {
+              "nome": "L'Oréal",
+              "vendas": [
+                90,
+                347,
+                499,
+                689
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
