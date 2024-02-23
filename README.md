@@ -24,8 +24,9 @@ Principais recursos:
 ## Como Usar
 - Siga as instruções abaixo para configurar e executar o projeto em sua máquina local:
 1. Clone o repositório: git clone https://github.com/rooberttdev/sales-chart.git
-2. Instale as dependências: ``npm i``
-3. Execute o projeto com: ``npm run dev``
+2. Acesse o repositório: ``cd sales-chart``
+3. Instale as dependências: ``npm i``
+4. Execute o projeto com: ``npm run dev``
 
 
 ### Pré-requisitos
