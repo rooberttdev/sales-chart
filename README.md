@@ -8,9 +8,9 @@ O Projeto é uma aplicação web desenvolvida para facilitar a análise e o acom
 
 Principais recursos:
 
-Seleção de categorias, produtos e marcas.
-Visualização gráfica das vendas por mês.
-Interface intuitiva e fácil de usar.
+- Seleção de categorias, produtos e marcas.
+- Visualização gráfica das vendas por mês.
+- Interface intuitiva e fácil de usar.
 
 
 ## Tecnologias Utilizadas
@@ -23,10 +23,10 @@ Interface intuitiva e fácil de usar.
 
 ## Como Usar
 - Siga as instruções abaixo para configurar e executar o projeto em sua máquina local:
-1. Clone o repositório:
-git clone https://github.com/rooberttdev/sales-chart.git
-2.Instale as dependências:
--- npm install
+1. Clone o repositório: git clone https://github.com/rooberttdev/sales-chart.git
+2. Instale as dependências: ``npm i``
+3. Execute o projeto com: ``npm run dev``
+
 
 ### Pré-requisitos
 
