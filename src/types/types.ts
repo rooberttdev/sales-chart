@@ -28,7 +28,7 @@ export interface SalesData {
 
 export interface DropdownProps {
   id: string;
-  label: string; // Adicionando a propriedade label à interface
+  label: string; 
   options: DropdownOption[];
   selectedValue: string;
   onChange: (value: string) => void;

@@ -8,25 +8,25 @@ O Projeto é uma aplicação web desenvolvida para facilitar a análise e o acom
 
 Principais recursos:
 
-Seleção de categorias, produtos e marcas.
-Visualização gráfica das vendas por mês.
-Interface intuitiva e fácil de usar.
+- Seleção de categorias, produtos e marcas.
+- Visualização gráfica das vendas por mês.
+- Interface intuitiva e fácil de usar.
 
 
 ## Tecnologias Utilizadas
 
-- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
-- Tailwind CSS: Um framework CSS utilitário para desenvolvimento rápido e responsivo.
-- Recharts: Uma biblioteca de gráficos para React, que permite criar visualizações de dados dinâmicas e interativas.
-- React Icons: Uma biblioteca que fornece ícones populares prontos para uso em projetos React.
-- TypeScript: Uma linguagem de programação que adiciona tipagem estática opcional ao JavaScript, trazendo mais segurança e produtividade ao desenvolvimento.
+- ``React:`` Uma biblioteca JavaScript para construção de interfaces de usuário.
+- ``Tailwind CSS:`` Um framework CSS utilitário para desenvolvimento rápido e responsivo.
+- ``Recharts:`` Uma biblioteca de gráficos para React, que permite criar visualizações de dados dinâmicas e interativas.
+- ``React Icons:`` Uma biblioteca que fornece ícones populares prontos para uso em projetos React.
+- ``TypeScript:`` Uma linguagem de programação que adiciona tipagem estática opcional ao JavaScript, trazendo mais segurança e produtividade ao desenvolvimento.
 
 ## Como Usar
 - Siga as instruções abaixo para configurar e executar o projeto em sua máquina local:
-1. Clone o repositório:
-git clone https://github.com/rooberttdev/sales-chart.git
-2.Instale as dependências:
--- npm install
+1. Clone o repositório: git clone https://github.com/rooberttdev/sales-chart.git
+2. Instale as dependências: ``npm i``
+3. Execute o projeto com: ``npm run dev``
+
 
 ### Pré-requisitos
 
